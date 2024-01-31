@@ -24,7 +24,7 @@ Here are some projects build with MERN stack :
 
 ## Contact 📫
 
-- LinkedIn: [https://www.linkedin.com/in/davidvanmak/](https://www.linkedin.com/in/ylliesha/)
+- LinkedIn: [https://www.linkedin.com/in/ylliesha/](https://www.linkedin.com/in/ylliesha/)
 - Email: hadjyllies@gmail.com
 
 I'm open to new opportunities and would love to hear from you.
