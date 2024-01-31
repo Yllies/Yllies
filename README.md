@@ -21,7 +21,7 @@ I'm Yllies, a passionate fullstack JavaScript software engineer who is also pass
 Here are some projects build with MERN stack :
 
 - 🗞️ [Morning News](https://morningnews-frontend-phi.vercel.app/) - Journal on IT News.
-- 🎬 [myMoviz](https://my-moviz-frontend-three-sepia.vercel.app/) - A Laravel e-commerce web app based on a Vue.js front-end.
+- 🎬 [myMoviz](https://my-moviz-frontend-three-sepia.vercel.app/) - A fullstack project made with MERN stack.
 - 🏢 [Zero](https://www.linkedin.com/posts/ylliesha_mvp-reactnative-javascript-activity-7097918808417284097-e01Y?utm_source=share&utm_medium=member_desktop) - A mobile app made with React Native & Expo.
 
 
